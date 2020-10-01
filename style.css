@@ -9,3 +9,39 @@ body, html {
   background-image: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark_1920x1234.jpg");
   font-family: 'Fjalla One', sans-serif;
 }
+
+#passwordthumb{
+  height: 300px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  margin: 10px;
+  padding: 0;
+}
+
+#quizthumb{
+  height: 300px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  margin: 10px;
+  padding: 0;
+}
+
+#plannerthumb{
+  height: 300px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  margin: 10px;
+  padding: 0;
+}
+
+#weatherthumb{
+  height: 300px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  margin: 10px;
+  padding: 0;
+}
